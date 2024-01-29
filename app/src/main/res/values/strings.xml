@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fragment UN II</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tpfl">TPFL</string>
+    <string name="to">TO</string>
+    <string name="pplg">PPLG</string>
+    <string name="busana">Busana</string>
+    <string name="kuliner">Kuliner</string>
+</resources>
